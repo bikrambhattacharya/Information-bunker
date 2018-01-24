@@ -1,0 +1,14 @@
+.navbar{
+    display: block;
+    padding: 10px;
+    background-color:rgba(0, 0, 0, 0.233);
+    height: 30px;
+}
+.navbar-menu-item{
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+}
+.navbar-menu-item:hover{
+    border-bottom:1px solid wheat;
+}
